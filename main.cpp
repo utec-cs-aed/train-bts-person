@@ -1,5 +1,6 @@
 #include <iostream>
 #include "bst.h"
+#include "person.h"
 
 using namespace std;
 
