@@ -4,6 +4,7 @@
 
 using namespace std;
 
+
 int main()
 {
     BSTree<Person> *arbolito = new BSTree<Person>();
